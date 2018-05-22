@@ -1,6 +1,6 @@
 # scrumpoker
 
-> A Vue.js project
+> Scrum Poker Application
 
 ## Build Setup
 

@@ -1,7 +1,7 @@
 {
   "name": "scrumpoker",
   "version": "1.0.0",
-  "description": "A Vue.js project",
+  "description": "Scrum Poker Application",
   "author": "Roque Ribeiro da Silva <roque.ribeiro@hotmail.com.br>",
   "private": true,
   "scripts": {

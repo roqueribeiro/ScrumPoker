@@ -18,6 +18,19 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="manifest" href="<%= htmlWebpackPlugin.files.publicPath %>static/manifest.json">
     <title>ScrumPoker</title>
+    <script type="text/javascript">
+      if ('serviceWorker' in navigator) {
+        window.addEventListener('load', function () {
+          console.log("Will the service worker register?");
+          navigator.serviceWorker.register('<%= htmlWebpackPlugin.files.publicPath %>static/service-worker.js')
+            .then(function(reg){
+              console.log("Yes, it did.");
+            }).catch(function(err) {
+              console.log("No it didn't. This happened: ", err)
+            });
+        });
+      }
+    </script>
   </head>
   <body>
     <div id="app"></div>
