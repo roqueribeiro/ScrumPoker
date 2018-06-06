@@ -2,6 +2,8 @@
 
 > Scrum Poker Application
 
+<img src="http://iwantproject.com.br:8080/screenshot-1.png" height="400"> <img src="http://iwantproject.com.br:8080/screenshot-2.png" height="400">
+
 ## Build Setup
 
 ``` bash
