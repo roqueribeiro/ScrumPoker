@@ -2,9 +2,9 @@
 
 > Scrum Poker Application
 
-<a href="http://iwantproject.com.br:8080">Live Demo</a>
+<a href="http://scrumpoker.iwantproject.com.br/">Live Demo</a>
 
-<img src="http://iwantproject.com.br:8080/screenshot-1.png" height="400"> <img src="http://iwantproject.com.br:8080/screenshot-2.png" height="400">
+<img src="http://scrumpoker.iwantproject.com.br/screenshot-1.png" height="400"> <img src="http://scrumpoker.iwantproject.com.br/screenshot-2.png" height="400">
 
 ## Build Setup
 
